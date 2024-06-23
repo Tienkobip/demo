@@ -5,6 +5,6 @@ class Program1
     static void Main()
     {
         Console.WriteLine("Hello world");
-        Console.WriteLine("Chao cac ban");
+        Console.WriteLine("Chao cac ban, a hihi do ngoc");
     }
 }
