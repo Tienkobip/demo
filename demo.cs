@@ -70,5 +70,6 @@ class Program
         // }
 
         ThuatToanLoang(a, hang, cot);
+        Console.WriteLine("Hello world");
     }
 }
