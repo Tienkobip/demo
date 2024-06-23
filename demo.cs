@@ -71,5 +71,6 @@ class Program
 
         ThuatToanLoang(a, hang, cot);
         Console.WriteLine("Hello world");
+        Console.WriteLine("Get the fuck out my life bitch");
     }
 }
